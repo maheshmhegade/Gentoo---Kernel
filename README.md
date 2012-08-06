@@ -1,1 +1,1 @@
-This is to study and exlore linux kernel & operating system
+This is to study and explore linux kernel & operating system
